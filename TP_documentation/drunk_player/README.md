@@ -20,5 +20,6 @@ make
 
 ```
 ./drunk_player_gui.out ../data/
+```
 
 ![](drunk_player_gui.png)
