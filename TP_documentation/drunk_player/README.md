@@ -4,8 +4,8 @@
 
 ## Dépendances
 
--OpenCV
--Boost
+- OpenCV
+- Boost
 
 ## Compilation
 
